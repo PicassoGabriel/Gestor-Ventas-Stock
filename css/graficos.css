@@ -1,0 +1,9 @@
+.grafico-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.grafico {
+    width: 50%; /* Ajusta el ancho de cada gráfico */
+    margin-bottom: 20px; /* Añade un margen inferior para separar los gráficos */
+}
