@@ -1,0 +1,10 @@
+INFORMACIÓN DE LAS CARPETAS:
+ARCHIVOS: Tiene todas las imagenes de los productos agregados.
+BD: Contiene los querys de la bd listos para ejecutar.
+CLASES: Contiene todoas las clases de cada modulo con sus respectivos metodos de crud.
+CSS: Contiene los scripts css que sirven para dar el estilo.
+IMG: Tiene todas las imagenes que necesito agregar a las vistas.
+JS: Estan todos los scripts javascript para cada modulo para ejecutar las funciones.
+LIBRERIAS: Estan las librerias para la creación de pdf, jquery, alertify, bootstrap y select 2.
+PROCESOS: Archivos intermedios entre las clases y las vistas, mandan la información entre estas.
+VISTAS: Todas las vistas de cada modulo.
